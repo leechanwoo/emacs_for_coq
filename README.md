@@ -3,4 +3,5 @@
 ### package-install
 * proof-general
 * evil
-* undo-fu
+* evil-leader
+* undo-tree
